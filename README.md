@@ -1,0 +1,1 @@
+This is a simple stopwatch app, written in vanilla JavaScript.
